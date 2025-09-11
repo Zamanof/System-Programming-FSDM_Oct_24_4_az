@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP 02. Threads", "SP 02. Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP 02. Threads in UI App", "SP 02. Threads in UI App\SP 02. Threads in UI App.csproj", "{124C7282-C708-4B63-869A-FE486A080521}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SP 04", "SP 04", "{568987A1-C573-4E3E-B6C8-9D118DDEC8D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
